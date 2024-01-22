@@ -13,3 +13,11 @@ These are necessary in order to provide a more natural interaction.
 | Trust | High match between expectation and delivery. No intentional vagueness or trickery. High accuracy. You want to build credibility. |
 | Polite | Do not be intrusive like a pop up ad. Consider the user's anticipated responses and display appropriate choices only at the required time.  |
 | Error Tolerant | Understand user intent.  |
+
+Conversation Design consists of
+
+- screenwriting
+- linguistics
+- psychology
+- technology
+

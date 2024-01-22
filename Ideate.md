@@ -65,3 +65,33 @@ prompt : "We have a delicious peperoni pizza just out of the oven."
 
 {New hungry user} {who want to know what is on the menu} {to order food}.
 
+
+# User Persona
+
+- name
+- behaviours
+- demographics
+- needs
+- goals
+
+
+# Bot Persona
+
+- name
+- behaviours
+- demographics
+- needs
+- goals
+
+This helps define the bot's personality.
+
+
+# Personality
+
+Consider types of questions users will ask.
+Some will test your bot so have fun with it.
+
+| user | bot |
+| ---- | ---- |
+| 42 | That's the answer to the ultimate question of life, the universe, and everything! |
+|  |  |
