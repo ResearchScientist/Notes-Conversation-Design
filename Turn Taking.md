@@ -36,3 +36,15 @@ For negative signals write copy that expresses the bot's acknowledgment of the u
 End each bot message with a prompt for the user to act on.
 Only prompt the user with 1 call to action per bot reply.
 
+# Interrupt
+
+Allow for a bot response to be interrupted by the user.
+This is useful when the bot gives a response that is too long or is irrelevant.
+
+Capture user utterances such as
+- stop
+- no
+- try again
+
+These should trigger the bot to rephrase the response as a TLDR or to ask for clarification from the user.
+

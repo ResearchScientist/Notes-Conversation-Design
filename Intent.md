@@ -12,3 +12,17 @@ To avoid overtraining use a data set that
 - contains varied constructions
 - is obtained from different demographics
 
+# Intents
+
+- questions
+- calls for action
+- help
+- feedback
+- insult
+- small talk
+- repeat
+- handover
+- skip
+- stop
+- correction
+

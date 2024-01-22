@@ -26,3 +26,15 @@ Bot needs to be clearer and more specific with its questions to avoid under answ
 | bot | user |
 | --- | --- |
 | When do you want to go on your trip? For example, you can say "friday to monday" or "starting on feb 2 until feb 12". | I want to go next week from monday to wednesday. |
+
+# Repeat
+
+Capture utterances that indicate that the user did not understand the response given by the bot.
+
+- huh
+- what
+- sorry
+- I don't get it
+
+Then have the bot provide a new response that is clearer and a variation of the initial response. Do not just repeat the same response to the user.
+
