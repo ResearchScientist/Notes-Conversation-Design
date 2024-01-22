@@ -38,3 +38,11 @@ Capture utterances that indicate that the user did not understand the response g
 
 Then have the bot provide a new response that is clearer and a variation of the initial response. Do not just repeat the same response to the user.
 
+# Lengthy Responses
+
+If the response is very long provide first a TLDR with an option for the user to choose more details.
+
+Offer option as a
+- button
+- message prompt
+

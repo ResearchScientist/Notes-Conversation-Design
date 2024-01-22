@@ -21,3 +21,9 @@ Conversation Design consists of
 - psychology
 - technology
 
+A conversational agent should offer the user
+
+- relevance
+- value
+- efficiency
+- attractiveness

@@ -94,4 +94,53 @@ Some will test your bot so have fun with it.
 | user | bot |
 | ---- | ---- |
 | 42 | That's the answer to the ultimate question of life, the universe, and everything! |
-|  |  |
+
+# Prototype Flows
+
+To visualize conversation flows you can use
+- flowcharts
+- spreadsheets
+
+# Design Process
+
+Begin by defining
+- project scope
+
+In relation to the bot define
+- bot persona
+- bot personality
+- conversation stack
+- prompts
+- responses
+
+In relation to the user define
+- user journey
+- conversational tasks
+- micro moments
+- happy path
+- screen writing
+- intent patterns
+
+Develop the dialogue model based on
+- intents
+- slots
+
+Design the conversational UI
+- utterances
+- prompts
+
+Develop the conversation flow
+- code
+- APIs
+
+```mermaid
+flowchart TD
+A[Project Scope] -->
+B(User Needs) -->
+C(Bot Attributes) -->
+D(Dialogue Model) -->
+E(Conversational UI) -->
+F(Conversation Flow) -->
+G(Test)
+```
+
