@@ -1,7 +1,8 @@
 # Double Diamond
 
+The double diamond Is a project management process comprised of 2 cycles where each cycle contains a diverging phase followed by a converging phase.
 
-Define the challenge to solve for
+Cycle 1 : Define the challenge to solve for
 
 Diverge
 - expand and gather data to identify all aspects of the problem space
@@ -10,7 +11,7 @@ Converge
 - refine the problem space to the main cause or most impactful and focus on that
 - define scope, context, roadmap, KPIs
 
-Discover solutions to the challenge
+Cycle 2 : Discover solutions to the challenge
 
 Diverge
 - with the real challenge identified begin ideating solutions
@@ -18,7 +19,6 @@ Diverge
 Converge
 - from user feedback refine the flows
 - test and repeat
-
 
 # Vision
 
@@ -31,7 +31,6 @@ High level overview of how to realize the vision.
 # Tactics
 
 Measures to execute the strategy.
-
 
 # Key Points
 
