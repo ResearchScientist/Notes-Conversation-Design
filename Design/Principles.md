@@ -14,6 +14,15 @@ These are necessary in order to provide a more natural interaction.
 | Polite | Do not be intrusive like a pop up ad. Consider the user's anticipated responses and display appropriate choices only at the required time.  |
 | Error Tolerant | Understand user intent.  |
 
+Griceam Maxims of the cooperative principle.
+
+| Maxim | Description |
+| ---- | ---- |
+| Quantity |  |
+| Quality |  |
+| Relevance |  |
+| Manner |  |
+
 Conversation Design consists of
 
 - screenwriting
@@ -27,3 +36,10 @@ A conversational agent should offer the user
 - value
 - efficiency
 - attractiveness
+
+Building an agent requires expertise in
+
+- technology
+- language
+- psychology
+
